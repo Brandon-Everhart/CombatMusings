@@ -26,11 +26,13 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
 <p align="center">
     <figcaption><i>Choi vs Unknown, IBJJF Worlds 2014 [A]</i></figcaption>
     <img width="100%" src="./ChoiBar_Choi_Unknown.gif" alt="Choi vs Unknown">
-    <figcaption><i>Galvao vs Canuto, ADCC 2022 [B]</i></figcaption>
+    <figcaption><i>Ryan vs Harris, Polaris 7 [B]</i></figcaption>
+    <img width="100%" src="./ChoiBar_Ryan_Harris.gif" alt="Ryan vs Harris">
+    <figcaption><i>Galvao vs Canuto, ADCC 2022 [C]</i></figcaption>
     <img width="100%" src="./ChoiBar_Galvao_Canuto.gif" alt="Galvao vs Canuto">
-    <figcaption><i>Oflanagan vs Ribeiro, ADCC 2022 [C]</i></figcaption>
+    <figcaption><i>Oflanagan vs Ribeiro, ADCC 2022 [D]</i></figcaption>
     <img width="100%" src="./ChoiBar_Oflanagan_Ribeiro.gif " alt="Oflanagan vs Ribeiro">
-    <figcaption><i>Jones vs Costa, ADCC 2022 [D]</i></figcaption>
+    <figcaption><i>Jones vs Costa, ADCC 2022 [E]</i></figcaption>
     <img width="100%" src="./ChoiBar_Jones_Costa.gif" alt="Jones vs Costa">
 </p>
 
@@ -53,12 +55,20 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
     </li>
     -->
     <li>
+        <a href="https://www.youtube.com/watch?v=5Z-HadXdSu0">"IBJJF Worlds 2014 Choi Won Choi won by Choi bar 30 sec."</a>, <i>YouTube</i>, uploaded by KINYABOYZ TOKYO, 8 June 2014, Timestamp 0:10
+    </li>
+    <li>
+        <a href="https://www.youtube.com/watch?v=xkezk6lxQQc&t=105s">"Polaris 7 Highlights"</a>, <i>YouTube</i>, uploaded by Polaris Professional Jiu Jitus Invitational, 14 August 2018, Timestamp 1:30
+    </li>
+    <li>
         <a href="https://www.youtube.com/watch?v=Wv4BRC-x1yQ">"Mica Galvao vs Renato Canuto 2022 ADCC World Championships"</a>, <i>YouTube</i>, uploaded by FloGrappling, 3 October 2022, Timestamp 2:10
     </li>
     <li>
         <a href="https://www.youtube.com/watch?v=BKZ6Dt7SpYE">"RISING STAR VS LEGEND: Xande Ribeiro vs Eoghan O'Flanagan | 2022 ADCC World Championships"</a>, <i>YouTube</i>, uploaded by FloGrappling, 9 January 2023, Timestamp 1:10
     </li>
-
+    <li>
+        <a href="https://www.youtube.com/watch?v=BmulmE8MyK4">"Craig Jones Lands Lightning Fast Submission Against Joao Costa | 2022 ADCC World Championships"</a>, <i>YouTube</i>, uploaded by FloGrappling, 10 June 2023, Timestamp 0:20
+    </li>
 </ol>
 
 #### Instructionals
