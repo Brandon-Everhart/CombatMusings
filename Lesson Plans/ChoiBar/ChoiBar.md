@@ -1,28 +1,45 @@
 [Comment]: # (Markdown does not natively support centered text, use html instead)
-<h1 style="text-align: center;">Choi Bar</h1>
+<h1 align="center">Choi Bar</h1>
 
-![alt text](./ChoiBar.png "Choi Bar")
-
-
-## Overview
-
-The Choi Bar is a an entry to the belly down armbar. The Choi Bar is named after an Atos  competitor, Choi Won Choi, who won several matches with the armbar in his weight class and open class at IBJJF Worlds 2014. After Choi Won Choi defeated Lachlan Giles with the Choi Bar, both Lachlan and Craig Jones began to teach the move and increase the moves popularity in the last 5 years. However, the Choi Bar has seen an explosion of interest after Mica Galvao [A] and Eoghan O'Flanagan [B] used the Choi Bar at 2022 ADCC Worlds. The movement is differentiated by rotating towards our opponent and bringing the far leg around or over our opponents head and shoulder then threading that leg in front of the opponents hips, landing us in the belly down armbar.
-
-![alt text](./ChoiBar_Galvao_Canuto.gif "Galvao vs Canuto")![alt text](./ChoiBar_Oflanagan_Ribeiro.gif "Oflanagan vs Ribeiro")
-<p style="text-align: left;">
-    <i>Galvao vs Canuto [A]</i>
-    <span style="float: right;">
-        <i>Oflanagan vs Ribeiro [B]</i>
-    </span>
+<p align="center">
+    <img width="100%" src="./ChoiBar.png" alt="Choi Bar">
 </p>
 
+## What is the Choi Bar?
 
-Commonly the Choi Bar is used from various variations of half guard, primarily from Knee Shield Half Guard or Butterfly Half Guard as seen in O'Flanagan vs Ribeiro [a, 3].
+The Choi Bar is a an entry to the belly down armbar. As seen below, to perform the traditional belly down armbar the attacker would rotate away from the opponent bringing thier leg, on the same side as the arm which they are attacking, over the oppoenents shoulder.
 
-![alt text](./ChoiBar_AOJ.gif "Rafa Teaches Choi Bar")
+<p align="center">
+    <figcaption><i>Belly Down Armbar from De La Riva [1]</i></figcaption>
+    <img width="100%" src="./BellyDownArmbar_AOJ.gif " alt="BellyDownArmbar">
+</p>
 
+Now to perform the *Choi Bar* entry to the belly down armbar the attacker will rotate towards the opponent and bring the opposite side leg over the opponents shoulder and head.
 
-## 
+<p align="center">
+    <figcaption><i>Choi Bar[2]</i></figcaption>
+    <img width="100%" src="./ChoiBar_AOJ.gif" alt="Rafa Teaches Choi Bar">
+</p>
+
+## Does the Choi Bar work?
+
+<p align="center">
+    <figcaption><i>Choi vs Unknown, IBJJF Worlds 2014 [A]</i></figcaption>
+    <img width="100%" src="./ChoiBar_Choi_Unknown.gif" alt="Choi vs Unknown">
+    <figcaption><i>Galvao vs Canuto, ADCC 2022 [B]</i></figcaption>
+    <img width="100%" src="./ChoiBar_Galvao_Canuto.gif" alt="Galvao vs Canuto">
+    <figcaption><i>Oflanagan vs Ribeiro, ADCC 2022 [C]</i></figcaption>
+    <img width="100%" src="./ChoiBar_Oflanagan_Ribeiro.gif " alt="Oflanagan vs Ribeiro">
+    <figcaption><i>Jones vs Costa, ADCC 2022 [D]</i></figcaption>
+    <img width="100%" src="./ChoiBar_Jones_Costa.gif" alt="Jones vs Costa">
+</p>
+
+## How to do the Choi Bar
+
+<figcaption><i>Galvao vs Canuto, ADCC 2022 [A]</i></figcaption>
+<img width="100%" src="./ChoiBar_CraigJones.gif" alt="Craig Jones">
+
+## Choi Bar counters and transitions
 
 ## References
 
