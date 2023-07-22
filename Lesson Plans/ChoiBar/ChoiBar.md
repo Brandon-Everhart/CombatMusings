@@ -27,8 +27,6 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
     <figcaption><i>Choi vs Unknown, IBJJF Worlds 2014 [A]</i></figcaption>
     <img width="100%" src="./ChoiBar_Choi_Unknown.gif" alt="Choi vs Unknown">
     <figcaption><i>Ryan vs Harris, Polaris 7 [B]</i></figcaption>
-    <img width="100%" src="./ChoiBar_Ryan_Harris.gif" alt="Ryan vs Harris">
-    <figcaption><i>Galvao vs Canuto, ADCC 2022 [C]</i></figcaption>
     <img width="100%" src="./ChoiBar_Galvao_Canuto.gif" alt="Galvao vs Canuto">
     <figcaption><i>Oflanagan vs Ribeiro, ADCC 2022 [D]</i></figcaption>
     <img width="100%" src="./ChoiBar_Oflanagan_Ribeiro.gif " alt="Oflanagan vs Ribeiro">
@@ -76,14 +74,18 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
 </p>
 
 
-#### Opponent holds their inner thigh to defend armbar -> transition to triangle choke.
+#### Opponent holds their inner thigh to defend armbar -> transition to triangle.
 <p align="center">
-    <figcaption><i>Grippo vs Hernandez, IBJJF Las Vegas Open 2019 [F]</i></figcaption>
-    <img width="100%" src="./Grippo_Hernandez_BackTake.gif" alt="Grippo vs Hernandez">
+    <img width="100%" src="./ChoiBar_Ryan_Harris.gif" alt="Ryan vs Harris">
+    <figcaption><i>Galvao vs Canuto, ADCC 2022 [C]</i></figcaption>
 </p>
 
-## References
+## Related movements
+- Shoulder Crunch Sweep
+- K Guard to Backside 50/50
+- Tarikoplata
 
+## References
 #### Competitions
 
 [Comment]: # (Markdown does not natively support alpha lists, use html instead)
