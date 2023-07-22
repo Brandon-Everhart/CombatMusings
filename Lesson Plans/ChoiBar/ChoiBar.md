@@ -43,7 +43,13 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
 
 ## Choi Bar counters and transitions
 
-- Opponent clasps hands together -> Option to transition to a back take.
+#### Opponent clasps hands together -> Option to transition to a back take.
+<p align="center">
+    <figcaption><i>Grippo vs Hernandez, IBJJF Las Vegas Open 2019 [A]</i></figcaption>
+    <img width="100%" src="./Grippo_Hernandez_BackTake.gif" alt="Grippo vs Hernandez">
+</p>
+
+
 - Opponent is holding their inner thigh -> Option to transition to a triangle.
 - Option when stepping on the opponents thigh with both feet we can transition to the tarikoplata.
 - Ooption to transition to backside 50/50. 
@@ -73,6 +79,9 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
     </li>
     <li>
         <a href="https://www.youtube.com/watch?v=BmulmE8MyK4">"Craig Jones Lands Lightning Fast Submission Against Joao Costa | 2022 ADCC World Championships"</a>, <i>YouTube</i>, uploaded by FloGrappling, 10 June 2023, Timestamp 0:20
+    </li>
+    <li>
+        <a href="https://www.youtube.com/watch?v=T8W6gL9D214">"Gianni Grippo VS Emilio Hernandez / Las Vegas Open 2019 "</a>, <i>YouTube</i>, uploaded by IBJJF (International Brazilian Jiu-Jitsu Federation), 4 September 2019, Timestamp 5:50
     </li>
 </ol>
 
