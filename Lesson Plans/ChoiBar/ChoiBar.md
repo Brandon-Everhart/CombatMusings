@@ -43,6 +43,11 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
 
 ## Choi Bar counters and transitions
 
+- Opponent clasps hands together -> Option to transition to a back take.
+- Opponent is holding their inner thigh -> Option to transition to a triangle.
+- Option when stepping on the opponents thigh with both feet we can transition to the tarikoplata.
+- Ooption to transition to backside 50/50. 
+
 ## References
 
 #### Competitions
