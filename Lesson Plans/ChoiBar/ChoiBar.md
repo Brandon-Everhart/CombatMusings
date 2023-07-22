@@ -7,7 +7,7 @@
 
 ## What is the Choi Bar?
 
-The Choi Bar is a an entry to the belly down armbar. As seen below, to perform the traditional belly down armbar the attacker would rotate away from the opponent bringing thier leg, on the same side as the arm which they are attacking, over the oppoenents shoulder.
+The Choi Bar is a an entry to the belly down armbar. As seen below, to perform the traditional belly down armbar the attacker would rotate away from the opponent bringing thier leg, on the same side as the arm which they are attacking, over the opponents shoulder.
 
 <p align="center">
     <figcaption><i>Belly Down Armbar from De La Riva [1]</i></figcaption>
@@ -38,30 +38,34 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
 
 ## How to do the Choi Bar
 
+<p align="center">
+    <figcaption><i>Jones Choi Bar from Half Guard [4]</i></figcaption>
+    <img width="100%" src="./ChoiBar_CraigJones.gif" alt="Craig Jones">
+    <figcaption><i>Degle Choi Bar from Butterfly Guard [9]</i></figcaption>
+    <img width="100%" src="./Degle_Butterfly_ChoiBar.gif" alt="Rober Degle">
+</p>
+
 #### Entry positions
-- From the Front Headlock
-- From Butterfly Guard
-- From Half Guard
+- From the Front Headlock [2]
+- From Butterfly Guard [9]
+- From Half Guard [E, D]
 
 #### Grips
 - Shoulder Crunch
-  - Gable
-  - Butterfly
-- Kimura
+  - Gable [2, B, D]
+  - Butterfly [4, 9]
+- Kimura [F]
 
 #### Clearing the Head
-- Swing the leg around and over the head
-- Slide the knee under the head
+- Swing the leg around and over the head [2, A, C]
+- Slide the knee under the head [D, E]
 
 #### Finish positions
 - Belly down
   - Hips towards the ground
-  - Hips towards the opponents feet
+  - Hips towards the opponents feet [2, C, E] 
 - Roll through to standard armbar
-  - Hips towards the ceiling
-
-<figcaption><i>Craig Jones [4]</i></figcaption>
-<img width="100%" src="./ChoiBar_CraigJones.gif" alt="Craig Jones">
+  - Hips towards the ceiling [A, D]
 
 ## Choi Bar counters and transitions
 
@@ -77,9 +81,6 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
     <figcaption><i>Grippo vs Hernandez, IBJJF Las Vegas Open 2019 [F]</i></figcaption>
     <img width="100%" src="./Grippo_Hernandez_BackTake.gif" alt="Grippo vs Hernandez">
 </p>
-
-- Option when stepping on the opponents thigh with both feet we can transition to the tarikoplata.
-- Ooption to transition to backside 50/50. 
 
 ## References
 
@@ -123,3 +124,4 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
 6. ["How Craig Hit The 2nd Fastest Sub at ADCC | Craig Jones B-Team Technique"](https://www.youtube.com/watch?v=Vb5wX2Vf1Wc), *YouTube*, uploaded by B-Team Jiu Jitsu, 10 October 2022
 7. ["Arizona Camp March 2022: Choi bar the World with Melson Puentes"](https://www.youtube.com/watch?v=-Yt9GBWDCOQ), *YouTube*, uploaded by BJJ Globetrotters in Action, 3 June 2022
 8. ["Craig Jones - Z-Half Guard Armbar (Bringing Leg Over The Head)"](https://www.youtube.com/watch?v=1AXix_eKyKc), *YouTube*, uploaded by The Grapplers Guide by Jason Scully, 10 January 2020
+9. ["Arm saddle position introduction: Creating dilemmas inside the best Armlocking position for NoGi"](https://www.youtube.com/watch?v=FaxveC8KqnE&t=678s), *YouTube*, uploaded by RobertDegleJJ, 23 September 2020
