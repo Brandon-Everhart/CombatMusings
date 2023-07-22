@@ -38,19 +38,46 @@ Now to perform the *Choi Bar* entry to the belly down armbar the attacker will r
 
 ## How to do the Choi Bar
 
-<figcaption><i>Galvao vs Canuto, ADCC 2022 [A]</i></figcaption>
+#### Entry positions
+- From the Front Headlock
+- From Butterfly Guard
+- From Half Guard
+
+#### Grips
+- Shoulder Crunch
+  - Gable
+  - Butterfly
+- Kimura
+
+#### Clearing the Head
+- Swing the leg around and over the head
+- Slide the knee under the head
+
+#### Finish positions
+- Belly down
+  - Hips towards the ground
+  - Hips towards the opponents feet
+- Roll through to standard armbar
+  - Hips towards the ceiling
+
+<figcaption><i>Craig Jones [4]</i></figcaption>
 <img width="100%" src="./ChoiBar_CraigJones.gif" alt="Craig Jones">
 
 ## Choi Bar counters and transitions
 
-#### Opponent clasps hands together -> Option to transition to a back take.
+#### Opponent clasps hands together to defend armbar -> transition to back take.
 <p align="center">
-    <figcaption><i>Grippo vs Hernandez, IBJJF Las Vegas Open 2019 [A]</i></figcaption>
+    <figcaption><i>Grippo vs Hernandez, IBJJF Las Vegas Open 2019 [F]</i></figcaption>
     <img width="100%" src="./Grippo_Hernandez_BackTake.gif" alt="Grippo vs Hernandez">
 </p>
 
 
-- Opponent is holding their inner thigh -> Option to transition to a triangle.
+#### Opponent holds their inner thigh to defend armbar -> transition to triangle choke.
+<p align="center">
+    <figcaption><i>Grippo vs Hernandez, IBJJF Las Vegas Open 2019 [F]</i></figcaption>
+    <img width="100%" src="./Grippo_Hernandez_BackTake.gif" alt="Grippo vs Hernandez">
+</p>
+
 - Option when stepping on the opponents thigh with both feet we can transition to the tarikoplata.
 - Ooption to transition to backside 50/50. 
 
